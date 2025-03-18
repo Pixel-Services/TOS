@@ -77,7 +77,22 @@ The SLA does not apply to any performance issues:
 
 By using our services, you agree to the terms of this SLA.
 
-## Acceptable Use
+## Monitoring and Legal Compliance
+
+### Resource Monitoring
+We reserve the right to monitor your use of the services provided by Pixel-Services.com to ensure compliance with these terms of service. If we determine that you are in violation of these terms of service, we may suspend or terminate your account.
+
+By using the services provided by Pixel-Services.com, you agree to allow us to monitor your use of the services. We will not disclose any information obtained through monitoring unless required by law.
+
+This monitoring may include, but is not limited to, the following activities:
+- Automated Scanning: We may use automated tools to scan your hosted resources for content that violates our Terms of Service. This includes scanning for malware, illegal content, and other prohibited activities.
+- Manual Review: We may manually review your hosted resources to ensure compliance with our Terms of Service. This includes reviewing content, logs, and other data associated with your account.
+- Activity Logging: We may log your activities on our services to ensure compliance with our Terms of Service. This includes logging login attempts, file uploads, and other activities.
+
+### Legal Action
+If we determine that you are in violation of these terms of service, we may take legal action against you. This may include, but is not limited to, suspending or terminating your account, reporting your activities to law enforcement, and pursuing legal action against you.
+
+## Acceptable Use Policy (AUP)
 If you engage in any of the activities prohibited by this AUP document, we may suspend or terminate your account.
 
 - You agree to use the services provided by Pixel-Services.com only for lawful purposes and in accordance with these terms of service. 
