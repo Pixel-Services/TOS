@@ -6,6 +6,7 @@
 - "User" or "You" refers to any person who accesses the website or its subdomains or uses the services provided by Pixel-Services.com.
 - "Services" refers to the services provided by Pixel-Services.com through the website or its subdomains, including, but not limited to, game server hosting, web hosting and e-mail hosting.
 - "Account" refers to the user account created on the website or its subdomains to access the services provided by Pixel-Services.com.
+- "Credit" refers to the virtual currency used to pay for the services provided by Pixel-Services.com.
 
 These terms of service govern your access to the Pixel-Services.com website and all its subdomains (including, but not limited to, hosting.pixel-services.com) and the services provided by Pixel-Services.com.
 By accessing the website or any of its subdomains or using the services, you agree to be bound by these terms of service. If you do not agree to these terms of service, you may not access the website, its subdomains, or use the services.
