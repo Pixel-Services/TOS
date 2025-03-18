@@ -24,23 +24,23 @@ If you are a copyright owner, or authorized on behalf of one, and you believe th
 
 You may be held accountable for damages (including costs and attorneys' fees) for misrepresenting that any Content is infringing Your copyright.
 
-### Billing and Payments
+## Billing and Payments
 
-#### Billing
+### Billing
 You shall provide Pixel Services with accurate and complete billing information including full name, address, state, zip code, telephone number, and a valid payment method information.
 
 Should automatic billing fail to occur for any reason, we will issue an electronic invoice indicating that you must proceed manually, within a certain deadline date, with the full payment corresponding to the billing period as indicated on the invoice.
 
 Two days following the due date of the invoice, we will suspend services for non-payment. After an additional five days, your service will be terminated and all files will be deleted permanently.
 
-#### Fee Changes
+### Fee Changes
 Pixel Services, in its sole discretion and at any time, may modify the Subscription fees for the Subscriptions. Any Subscription fee change will become effective at the end of the then-current Billing Cycle.
 
 Pixel Services will provide you with reasonable prior notice of any change in Subscription fees to give you an opportunity to terminate your Subscription before such change becomes effective.
 
 Your continued use of the Service after the Subscription fee change comes into effect constitutes your agreement to pay the modified Subscription fee amount.
 
-#### Refund Policy
+### Refund Policy
 
 Refunds are only possible in the form of service credits. The amount of credits you can receive depends on the time elapsed since your purchase:
 
@@ -50,12 +50,12 @@ Refunds are only possible in the form of service credits. The amount of credits 
 
 To request a refund, please contact our support team within the applicable time frame. Service credits will be applied to your account and can be used for future purchases or services.
 
-### Service Level Agreement (SLA)
+## Service Level Agreement (SLA)
 
-#### Uptime Guarantee
+### Uptime Guarantee
 Pixel-Services.com guarantees a 99.9% uptime for all services provided. This uptime guarantee excludes scheduled maintenance, emergency maintenance, and any downtime caused by circumstances beyond our control, including but not limited to, natural disasters, acts of war, or network outages.
 
-#### Service Credits
+### Service Credits
 If we fail to meet the uptime guarantee, you may be eligible for service credits. Service credits are calculated as a percentage of the monthly service fee for the affected service, as follows:
 - **95% to 99% uptime**: 5% service credit
 - **90% to 94% uptime**: 25% service credit
@@ -65,11 +65,11 @@ To request service credits, you must contact us within 30 days of the end of the
 
 You can check the uptime of our services at any time by visiting our status page at https://status.pixel-services.com.
 
-#### Support Response Times
+### Support Response Times
 We strive to provide timely support to all our users. Our support response times are as follows:
 - **Standard Support**: We will respond to support requests within 24 hours during business days (Monday to Friday).
 
-#### Exclusions
+### Exclusions
 The SLA does not apply to any performance issues:
 - Caused by factors outside of our reasonable control.
 - That resulted from any actions or inactions of the user or any third parties.
@@ -77,7 +77,7 @@ The SLA does not apply to any performance issues:
 
 By using our services, you agree to the terms of this SLA.
 
-### Acceptable Use
+## Acceptable Use
 If you engage in any of the activities prohibited by this AUP document, we may suspend or terminate your account.
 
 - You agree to use the services provided by Pixel-Services.com only for lawful purposes and in accordance with these terms of service. 
@@ -85,21 +85,21 @@ If you engage in any of the activities prohibited by this AUP document, we may s
 - You may not use the services to engage in any illegal activities, including, but not limited to, hacking, spamming, or distributing malware.
 - You may not use the services to infringe on the rights of others, including, but not limited to, copyright, trademark, or privacy rights.
 
-#### Legal Compliance
+### Legal Compliance
 You agree to use the services provided by Pixel-Services.com in compliance with the laws of Germany and the laws of the country where you chose to host your service. Any violation of these laws may result in the suspension or termination of your account.
 
-#### Mojang EULA
+### Mojang EULA
 By purchasing a Minecraft Service, you agree to Mojang's End User License Agreement. (https://aka.ms/mc-eula)
 
 If your Service is found to be in violation of Mojang's EULA, the Service may be suspended until the violating content is removed from the Service.
 
-#### Fair Use
+### Fair Use
 Some services provided by Pixel Services, including but not limited to MySQL databases, are subject to fair use policies. While we do not impose hard limits on the amount of resources you can use, we reserve the right to suspend or terminate your account if we determine that your usage is excessive or abusive.
 
-#### Bandwidth
+### Bandwidth
 By default, all services provided by Pixel Services are subject to a fair use bandwidth policy. If we determine that your bandwidth usage is excessive or abusive, we reserve the right to suspend or terminate your services or account.
 
-### Privacy Policy
+## Privacy Policy
 We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your personal information. By using our services, you agree to the collection and use of information in accordance with this policy.
 
 - **Information Collection**: We collect information that you provide to us directly, such as when you create an account, and information that is collected automatically, such as your IP address and browser type.
@@ -108,7 +108,7 @@ We are committed to protecting your privacy. This Privacy Policy explains how we
 - **Third-Party Disclosure**: We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential.
 - **Your Consent**: By using our site, you consent to our website privacy policy.
 
-### Changes to the Terms of Service
+## Changes to the Terms of Service
 We reserve the right to change these terms of service at any time. If we make any changes to these terms of service, we will post the updated terms of service on the website.
 
 Your continued use of the website or the services after the updated terms of service have been posted constitutes your acceptance of the updated terms of service.
