@@ -1,5 +1,3 @@
-# Terms of Service and Acceptable Use Policy and Privacy Policy
-
 ### Definitions
 - "Pixel-Services.com" or "Pixel Services" refers to the website and its subdomains, as well as the services provided by Pixel-Services.com.
 - "Us" or "We" refers to Pixel-Services.com.
