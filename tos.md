@@ -2,7 +2,7 @@
 - "Pixel-Services.com" or "Pixel Services" refers to the website and its subdomains, as well as the services provided by Pixel-Services.com.
 - "Us" or "We" refers to Pixel-Services.com.
 - "User" or "You" refers to any person who accesses the website or its subdomains or uses the services provided by Pixel-Services.com.
-- "Services" refers to the services provided by Pixel-Services.com through the website or its subdomains, including, but not limited to, game server hosting, web hosting and e-mail hosting.
+- "Services" refers to the services provided by Pixel-Services.com through the website or its subdomains, including, but not limited to, game server hosting, web hosting, and e-mail hosting.
 - "Account" refers to the user account created on the website or its subdomains to access the services provided by Pixel-Services.com.
 - "Credit" refers to the virtual currency used to pay for the services provided by Pixel-Services.com.
 
@@ -18,27 +18,27 @@ If your account is terminated, you will lose access to the services provided by 
 Pixel-Services.com shall not be liable for any direct, indirect, incidental, special, or consequential damages resulting from the use or inability to use the services provided by Pixel-Services.com.
 
 ### Copyright Policy
-We respect the intellectual property rights of others. It is Our policy to respond to any claim that Content posted on the Service infringes a copyright or other intellectual property infringement of any person.
+We respect the intellectual property rights of others. It is our policy to respond to any claim that content posted on the service infringes a copyright or other intellectual property of any person.
 
 If you are a copyright owner, or authorized on behalf of one, and you believe that the copyrighted work has been copied in a way that constitutes copyright infringement, please submit your claim via email to **contact@pixel-services.com**.
 
-You may be held accountable for damages (including costs and attorneys' fees) for misrepresenting that any Content is infringing Your copyright.
+You may be held accountable for damages (including costs and attorneys' fees) for misrepresenting that any content is infringing your copyright.
 
 ## Billing and Payments
 
 ### Billing
-You shall provide Pixel Services with accurate and complete billing information including full name, address, state, zip code, telephone number, and a valid payment method information.
+You shall provide Pixel Services with accurate and complete billing information, including full name, address, state, zip code, telephone number, and valid payment method information.
 
 Should automatic billing fail to occur for any reason, we will issue an electronic invoice indicating that you must proceed manually, within a certain deadline date, with the full payment corresponding to the billing period as indicated on the invoice.
 
-Two days following the due date of the invoice, we will suspend services for non-payment. After an additional five days, your service will be terminated and all files will be deleted permanently.
+Two days following the due date of the invoice, we will suspend services for non-payment. After an additional five days, your service will be terminated, and all files will be deleted permanently.
 
 ### Fee Changes
-Pixel Services, in its sole discretion and at any time, may modify the Subscription fees for the Subscriptions. Any Subscription fee change will become effective at the end of the then-current Billing Cycle.
+Pixel Services, in its sole discretion and at any time, may modify the subscription fees for the subscriptions. Any subscription fee change will become effective at the end of the then-current billing cycle.
 
-Pixel Services will provide you with reasonable prior notice of any change in Subscription fees to give you an opportunity to terminate your Subscription before such change becomes effective.
+Pixel Services will provide you with reasonable prior notice of any change in subscription fees to give you an opportunity to terminate your subscription before such change becomes effective.
 
-Your continued use of the Service after the Subscription fee change comes into effect constitutes your agreement to pay the modified Subscription fee amount.
+Your continued use of the service after the subscription fee change comes into effect constitutes your agreement to pay the modified subscription fee amount.
 
 ### Refund Policy
 
@@ -53,7 +53,7 @@ To request a refund, please contact our support team within the applicable time 
 ## Service Level Agreement (SLA)
 
 ### Uptime Guarantee
-Pixel-Services.com guarantees a 99.9% uptime for all services provided. This uptime guarantee excludes scheduled maintenance, emergency maintenance, and any downtime caused by circumstances beyond our control, including but not limited to, natural disasters, acts of war, or network outages.
+Pixel-Services.com guarantees a 99.9% uptime for all services provided. This uptime guarantee excludes scheduled maintenance, emergency maintenance, and any downtime caused by circumstances beyond our control, including but not limited to natural disasters, acts of war, or network outages.
 
 ### Service Credits
 If we fail to meet the uptime guarantee, you may be eligible for service credits. Service credits are calculated as a percentage of the monthly service fee for the affected service, as follows:
@@ -95,7 +95,7 @@ If we determine that you are in violation of these terms of service, we may take
 ## Acceptable Use Policy (AUP)
 If you engage in any of the activities prohibited by this AUP document, we may suspend or terminate your account.
 
-- You agree to use the services provided by Pixel-Services.com only for lawful purposes and in accordance with these terms of service. 
+- You agree to use the services provided by Pixel-Services.com only for lawful purposes and in accordance with these terms of service.
 - You may not use the services in any way that violates any applicable laws or regulations.
 - You may not use the services to engage in any illegal activities, including, but not limited to, hacking, spamming, or distributing malware.
 - You may not use the services to infringe on the rights of others, including, but not limited to, copyright, trademark, or privacy rights.
@@ -104,9 +104,9 @@ If you engage in any of the activities prohibited by this AUP document, we may s
 You agree to use the services provided by Pixel-Services.com in compliance with the laws of Germany and the laws of the country where you chose to host your service. Any violation of these laws may result in the suspension or termination of your account.
 
 ### Mojang EULA
-By purchasing a Minecraft Service, you agree to Mojang's End User License Agreement. (https://aka.ms/mc-eula)
+By purchasing a Minecraft service, you agree to Mojang's End User License Agreement. (https://aka.ms/mc-eula)
 
-If your Service is found to be in violation of Mojang's EULA, the Service may be suspended until the violating content is removed from the Service.
+If your service is found to be in violation of Mojang's EULA, the service may be suspended until the violating content is removed from the service.
 
 ### Fair Use
 Some services provided by Pixel Services, including but not limited to MySQL databases, are subject to fair use policies. While we do not impose hard limits on the amount of resources you can use, we reserve the right to suspend or terminate your account if we determine that your usage is excessive or abusive.
