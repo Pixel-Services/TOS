@@ -92,6 +92,13 @@ This monitoring may include, but is not limited to, the following activities:
 ### Legal Action
 If we determine that you are in violation of these terms of service, we may take legal action against you. This may include, but is not limited to, suspending or terminating your account, reporting your activities to law enforcement, and pursuing legal action against you.
 
+### Prohibited Content and User Conduct
+Pixel-Services.com strictly prohibits the upload, sharing, or distribution of pornographic material, regardless of its legality. We reserve the right to ban users who upload pornographic content at any time, at our sole discretion.
+
+Content flagged by our automated systems will undergo manual review by our moderation team. Based on this review, users may face account suspension or permanent ban from our services.
+
+Furthermore, data identified by our systems as potentially violating this policy may be temporarily logged for review purposes. These logs are maintained solely to assess compliance with our content policies and are subject to deletion following the conclusion of the review process.
+
 ## Acceptable Use Policy (AUP)
 If you engage in any of the activities prohibited by this AUP document, we may suspend or terminate your account.
 
