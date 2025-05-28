@@ -50,6 +50,18 @@ Refunds are only possible in the form of service credits. The amount of credits 
 
 To request a refund, please contact our support team within the applicable time frame. Service credits will be applied to your account and can be used for future purchases or services.
 
+## Data Retention Policy
+When a service is canceled or terminated due to non-payment or any other reason, Pixel-Services.com will retain the associated server data for a period of 14 days (2 weeks). During this retention period, users may request access to their data or restore their service by resolving the issue that led to the termination.
+
+### Access and Restoration
+- **Access Requests**: Users may contact our support team within the 14-day retention period to request access to their server data.
+- **Service Restoration** : Users may restore their service by settling any outstanding payments or resolving the issue that caused the cancellation.
+
+### Data Deletion
+After the 14-day retention period, all server data will be permanently deleted and cannot be recovered. Pixel Services is not responsible for any loss of data after this period.
+
+By using our services, you agree to this data retention policy.
+
 ## Service Level Agreement (SLA)
 
 ### Uptime Guarantee
